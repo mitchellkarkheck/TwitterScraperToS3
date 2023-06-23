@@ -1,4 +1,4 @@
-# Stock Twitter Scraper and Sentiment Analyzer
+# Twitter Scraper and Sentiment Analyzer for Stock Market Sentiments
 
 This project consists of an automated Twitter scraper that collects daily tweets about stocks, performs sentiment analysis to classify them as positive, negative, or neutral, and stores the resulting data on Amazon S3. It also includes an API script for retrieving the average sentiment of a given stock and tweets over a specified period from the stored data.
 
